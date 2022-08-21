@@ -26,7 +26,7 @@ Added info page
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/fyM6TtC' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src='https://imgur.com/fyM6TtC' title='Video Walkthrough' />
 
 GIF created with [Adobe](https://www.adobe.com/express/feature/video/convert/mov-to-gif).
 
